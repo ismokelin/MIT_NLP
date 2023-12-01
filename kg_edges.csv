@@ -1,0 +1,888 @@
+node1,node2
+Cr 1.7,Cr
+Cr 1.7,BUN
+0.5,Cr
+0.5,BUN
+2.4,Cr
+2.4,BUN
+50%,decreaesd
+T9,flank
+flank,CBC
+CA,melena
+melena,GI
+melena,ROS
+melena,hematochezia
+melena,hemeoccult
+melena,EGD
+T3N2,melena
+2 yrs ago,melena
+2 yrs ago,DVT
+s/p,melena
+s/p,ROS
+CEA 7.4,melena
+2524,TIA
+2524,PMH
+TIA,GI
+TIA,ROS
+TEE,EF
+3186,BP
+BP,ICU
+EGD,SMA
+EGD,Gi
+EGD,GI
+3 mm,EGD
+incisura,EGD
+4,ROS
+4,5
+4,GI
+4,UE
+4,2
+4,Valvular
+4,syphillis
+4,Infant
+ROS,UTI
+ROS,Acute
+ROS,Normal GI/GU
+5,ROS
+5,CT
+5,PSH
+5,PMH
+5,10 minutes
+5,1
+5,5 and 10 minutes
+3vd,three
+three,thep atient
+three,PMH
+three,GI
+26,RVH
+26,CBC
+56%,RVH
+60 mg,Prednisone
+40 mg,Prednisone
+40 mg,GI
+30mg,Prednisone
+a month ago,ERCP
+ERCP,spider angiomata
+lasix,Cr
+lasix,DOE
+336,Cr
+Lantus,1
+1,CBC
+1,UTI
+1,2
+1,GI
+1,EF
+1,daily
+1,3
+1,BRCA
+1,BUN
+1,antiobitics
+1,PMH
+1,40 pack year
+1,DOE
+1,10 minutes
+1,5 and 10 minutes
+daily,1
+daily,only one
+daily,ROS
+WBC,Laboratory
+WBC,CBC
+13.8,WBC
+2.9,WBC
+BNP,WBC
+2,US
+2,ROS
+2,syphilis
+2,fallot
+2,rbc
+2,orthopnea
+2,UTI
+2,BRCA
+2,NSR
+2,EF
+2,Hgb
+2,two
+2,1
+2,GI
+2,gastric varacies
+2,Infant
+5 cm,US
+3,US
+3,GI
+3,three
+3,CT
+3,UE
+3,BRCA
+3,Barrett
+3,PMH
+3,AVM
+3,colonscopy
+3,prolpase
+3,MI
+3,II
+3,Infant
+3,AKI
+3,Murphy
+1.5 cm,US
+8,US
+8,Apgars
+8,Pallor
+8,pancytopenic
+8,10 minutes
+8,1
+8,5 and 10 minutes
+GI,hematochezia
+GI,Warfarin
+GI,CT
+28,GI
+28,1
+ASA,GI
+ASA,Aspirin
+Weaned,Bipap
+Weaned,bipap
+25,Lifetime
+25,ABG
+ETOH,coagulopathic
+ETOH,Warfarin
+240,coagulopathic
+INR,coagulopathic
+INR,GI
+8.0,coagulopathic
+8.0,2L
+CT ABDOMEN W/O,CT
+CT,ataxic
+CT,LLL
+CT,ERCP
+CT,3
+CT,DVT
+CT,GBM
+CT,MI
+CT,MRA
+CT,hemoperitoneum
+CT,MVA
+PRENATAL,syphallis
+PRENATAL,rubella vaccinations
+RPR,syphallis
+RPR,Infant
+RPR,syphilis
+RPR,HepB
+RPR,CBC
+RPR,syphillis
+RPR,rubella
+rubella immune,syphallis
+rubella immune,syphilis
+rubella immune,CBC
+rubella immune,RPR
+rubella immune,rubella
+STitle,ICA
+STitle,TIA
+STitle,daily
+ICA,TIA
+20319,ICA
+20319,TIA
+73-year-old,GI
+73-year-old,RBC
+that night,CBC
+CBC,foley
+CBC,EtOH
+6,CBC
+6,CT
+6,1 minute
+6,PMH
+6,Hyperlipidemia
+6,Cholesterol
+6,UTI
+f/u,TIA
+ABG,Cr
+ABG,Hypercapnic
+7.06,ABG
+7.06,Cr
+92,ABG
+92,Cr
+103,ABG
+103,Cr
+TTP,CBC
+"CP/SOB,",hematochezia
+hematochezia,ROS
+hematochezia,GI
+hematochezia,MI
+N/V,hematochezia
+N/V,ROS
+today,melena
+today,CBC
+today,Cr
+today,MI
+today,ROS
+Troponin,WBC
+Troponin,Laboratory
+0.28,WBC
+0.28,Laboratory
+Laboratory,EtOH
+86-year-old,Cr
+ATG,CT
+27 years old,Infant
+Gravida III,Infant
+"1,0,1,1",Infant
+FTA,Infant
+2 weeks,ROS
+2 weeks,two weeks
+3.6,WBC
+3.6,Na
+UTI,BUN
+UTI,CBC
+UTI,foley
+1615,UTI
+Klebsiella,UTI
+74-year-old,Barrett
+44,CBC
+2.4 K,CBC
+years,CBC
+years,daily
+ED,CBC
+ED,hasdyspnea
+1 day,CBC
+1 day,hematochezia
+EMS,9am
+EMS,ROS
+55 -year-old,4
+55 -year-old,BUN
+55 -year-old,Cr
+eight months,4
+eight months,BUN
+eight months,Cr
+"CAD, s/p",three
+3005,three
+AMI,three
+SOB,Pt
+SOB,UTI
+SOB,Acute
+SOB,Normal GI/GU
+SOB,DOE
+SOB,ROS
+SOB,DVT
+SOB,PMH
+SOB,URI
+Pt,GI
+Pt,UTI
+Pt,ICU
+Pt,MCA
+Pt,CT
+Pt,Hgb
+Pt,100%
+Pt,ROS
+Pt,MI
+Rubella,syphilis
+Rubella,HepB
+Rubella,rubella vaccinations
+Rubella,syphillis
+613,ROS
+Vancomycin/Zosyn,UTI
+Tylenol,UTI
+two,spider angiomata
+two,daily
+two,PTT/PT
+two,HAART
+two,Infant
+two,Paracentesis
+two,the day
+two,NICU
+two,GI
+two,NSR
+two,Warfarin
+two,night
+1.5L NS,GI
+VA,Cr
+3:30 am pt,night
+night,c. diff colitis
+night,ROS
+3011,ICA
+Apgars,42 weeks
+3L NC,ABG
+50-55%,EF
+EF,thep atient
+EF,orthopnea
+EF,Echo
+EF,PMH
+3483,MI
+MI,thep atient
+MI,hasg
+3483-10,MI
+VS,Conns
+120,Conns
+160/85,Conns
+18,Conns
+18,NSR
+97%/RA,Conns
+43,PMH
+PMH,foley
+Klebiella,UTI
+BRBPR,GI
+BRBPR,ROS
+BRBPR,hematochezia
+526,1
+Na 138,1
+95,1
+95,patien
+15,1
+15,GCS
+15,bipap
+15,greater than 10
+15,less than 10
+Cr 1.13--AG 15,1
+50,30
+50,Tylenol PM
+30,CT
+only 20,30
+only 20,Tylenol PM
+OSH,PTT/PT/
+OSH,NSR
+1L,ICU
+NS,ICU
+NS,hastachycardia
+NS,CBC
+un,ICU
+614,ICU
+abd,UTI
+abd,Acute
+abd,Normal GI/GU
+abd,the weekend
+the day,3
+the day,thep atient
+the day,normocephalic
+the day,BiPap
+the day,Hgb
+the day,daily
+the day,GI
+the day,DVT
+40%,EF
+40%,PMH
+2+MR 3,EF
+last week,daily
+50 feet,daily
+first,daily
+first,fallot
+first,Acetominophen and Advil
+6.5,US
+DOE,daily
+7,H. pylori
+7,Apgars
+7,TIA
+MICU,c. diff colitis
+MICU,Pt
+MICU,ICU
+MICU,Bipap
+27934,MICU
+27935,MICU
+42-year-old,syphilis
+G2,syphilis
+4L,hastachycardia
+53,MI
+Nattokinase,Aspirin
+the last 4 years,Aspirin
+Lithium,Pt
+several years,Pt
+2-4mg PO BID,Pt
+26.1,Hgb
+57 year old,Cr
+57 year old,PMH
+2951,Cr
+340,Cr
+"364,000",Cr
+the past two months,Cr
+Plavix,Pt
+1 month ago,Pt
+1 month ago,Plavix
+po vancomycin,c. diff colitis
+10 mg IV,c. diff colitis
+NI,10
+NI,Pt
+NI,URI
+NI,ROS
+NI,CBC
+10,MI
+10,1
+18393,10
+morning,1
+FSBS 298,1
+12U.,1
+49,Hypercapnic
+0,rubella vaccinations
+0,1
+0,2
+0,1 minute
+one,UTI
+one,BMI
+one,GI
+one,Cr
+61 year old,ROS
+pt,Pt
+pt,delirius
+pt,ROS
+pt,CT
+zosyn,Pt
+25 lb,BMI
+past 4 months,BMI
+72-year-old,thep atient
+2501,thep atient
+30 percent,thep atient
+2528,thep atient
+the past few weeks,melena
+the past few weeks,ROS
+152,CBC
+152,AML
+AML,CBC
+3289-9,CT
+L,Intracranial
+L,ROS
+L,CT
+4 mm,Intracranial
+5am,MI
+V1,MI
+V2,MI
+CAD s/p,2L
+2642,2L
+2642,1 minute
+4 mg IV,ROS
+Toradol,ROS
+600,1
+600,PMH
+14,1
+498 mg,1
+117/71,NSR
+76,NSR
+the last week,guillan barre
+the last week,UTI
+27,CBC
+36,CBC
+36,foley
+1u,CBC
+M1 See,marrow
+marrow,pancytopenic
+Mucositis Graft,marrow
+Deep vein thrombosis,marrow
+2630,marrow
+Pulmonary embolism,PMH
+seven years ago,PMH
+PTCA,three
+02,Lasix
+Lasix,2
+Lasix,ED
+Lasix,EF
+one week,UTI
+one week,greater than 10
+one week,less than 10
+the morning,night
+the morning,ROS
+the morning,VTach
+ESRD,5
+ESRD,Hgb
+ESRD,AKI
+2977,5
+2985,5
+89-year-old,CT
+34 year old,HAART
+14019,fallot
+31 and 5/7 weeks,fallot
+NICU,fallot
+PRBCS,rbc
+40mg,rbc
+40mg,GI
+10mg decadron,CBC
+1g,CBC
+500mg,CBC
+3L,CBC
+two 18g,CBC
+7.31,ABG
+146,ABG
+100%,ABG
+100%,RUE
+100%,DOE
+yrs ago,night
+10269,Pt
+the Emergency Department,MVA
+the Emergency Department,Cr
+the Emergency Department,NSR
+the Emergency Department,MI
+Lovenox,DVT
+TTE,EF
+60%,EF
+60%,decreaesd
+40 pound,BMI
+the last few months,BMI
+3167,2
+7.3,2
+AIVR,NSR
+AIVR,MI
+5.2,GI
+5 mg,GI
+15%,EF
+15%,MI
+EtOH,NASH
+EtOH,MI
+393,EGD
+20,hemagloblin
+0.77 cm,EF
+60 percent,EF
+orthopnea,vascular diease
+orthopnea,EKG
+35%-40%,orthopnea
+2/2,orthopnea
+Subglottic,orthopnea
+NamePattern4,ICU
+3576,ICU
+3576,GCS
+myalgias,GI
+myalgias,HLD
+myalgias,ROS
+exerciese,decreaesd
+the past 6-8 months,the past few months
+the past few months,ROS
+CP,ROS
+CP,vascular diease
+CP,Hgb
+78 year old,CBC
+500cc NS,CBC
+the Intensive Care Unit,7
+the Intensive Care Unit,AKI
+8-10 weeks of age,Infant
+"29,000",WBC
+the past month,daily
+Baby Girl,1
+Baby Girl,2
+11:12 a.m.,1
+11:12 a.m.,2
+22-year-old,1
+22-year-old,2
+Overnight,1
+the next morning,1
+58,this morning
+this morning,HLD
+DM,this morning
+DM,PMH
+DM,Hgb
+Echo,EF
+20 to 25 percent,Echo
+20 to 25 percent,orthopnea
+29.5,CBC
+UA,CBC
+UA,foley
+24 hours to 36 hours,CT
+that day,today
+496,Prednisone
+2 weeks ago,Prednisone
+325 mg po q,2
+100 mg po,2
+Glyburide 10 mg po,2
+Zestril,2
+10 mEq po q,2
+Today,today
+279,Apgars
+32 5/7 weeks,Apgars
+2175 grams,Apgars
+40-year-old,Apgars
+Toprol,ROS
+HCTZ,ROS
+C4 anc C5,ROS
+3118,ROS
+6361,Pt
+4-5 days,first
+7 days later,ROS
+34%,EF
+U,UTI
+the week,Pt
+1L NS,UTI
+DM II Alzheimer's,PMH
+53 year old,MI
+The next morning,MCA
+three days,ROS
+24- year-old,1 minute
+Apgar,1 minute
+8 at 5 minutes,1 minute
+the last few days,c. diff colitis
+98,BNP
+98,orthopnea
+98,hasdyspnea
+May 2700,BNP
+May 2700,orthopnea
+2.5,BRCA
+Taxol/Carboplatin w,BRCA
+Docagem,BRCA
+7.5,BRCA
+Taxol/Carboplatin,BRCA
+6 months,BRCA
+That night,hematochezia
+That night,ROS
+BRB,hematochezia
+BRB,ROS
+64,INR
+64,foley
+SDH s/p evacuation p/w subtherapeutic INR,INR
+63-year old,patien
+XRT,patien
+2936-3,patien
+6-/3497,MVA
+7 at one minute and,Apgars
+8 at five minutes,Apgars
+672,BUN
+100,hasdyspnea
+148/78,hasdyspnea
+34,hasdyspnea
+34,CBC
+90%2L NC,hasdyspnea
+23.2,foley
+approximately 37 cm,EGD
+2530,UTI
+stigmatat,Barrett
+12,BMI
+12,20
+12,Cr
+12,GI
+SS,MI
+0300,MI
+DM 4,PMH
+This morning,this morning
+approximately one month ago,UTI
+approximately one month ago,PMH
+150,EtOH
+0.8,EtOH
+405,EtOH
+Nitro gtt,Pt
+RUE,MCA
+95%,100%
+NRB,95%
+NRB,100%
+NRB,DOE
+2 days ago,UTI
+16.6,CBC
+6%,CBC
+Mannitol,BiPap
+Decadron,BiPap
+81-year-old,HLD
+less than 15%,EF
+Noninsulin,2
+Noninsulin,Hgb
+8 at one minute and,42 weeks
+8 at one minute and,Apgars
+five minutes,42 weeks
+five minutes,Apgars
+yesterday,MI
+69 year old,Cr
+one and five minutes,Apgars
+around 0900,9am
+0845,9am
+5-day,PMH
+the last day,ROS
+the last day,CBC
+11,DVT
+11,hearburn
+11,GE
+11,Barrett
+11,GI
+11,gastric varacies
+﻿Mitral,Valvular
+Macrocytic,CBC
+3322,MI
+6L NS,UTI
+2 years ago-,GI
+2 years ago-,AVM
+2 years ago-,colonscopy
+AVM,GI
+AVM,colonscopy
+AVM,gastric varacies
+fifteen pounds,BMI
+one half weeks,BMI
+9717,UTI
+581,1
+23,1
+LLQ,ROS
+22 week,first
+the past 3 weeks,URI
+the past 3 weeks,ROS
+the past 3 weeks,CBC
+the past 3 weeks,the past few weeks
+months,URI
+months,ROS
+months,CBC
+69,3
+3114,HAART
+54YO,DVT
+8 months,DVT
+Extra Strength Tylenol,Tylenol
+3280,CT
+2.9 to 3.4,AKI
+around 20:00,ROS
+14 day,UTI
+9,hematochezia
+9,Echo
+24761,CBC
+25-5/7 weeks,at least 25 weeks
+25-5/7 weeks,first
+Hyperlipidemia,PMH
+Half an hour later,3
+OMED,patien
+2932,patien
+70s,patien
+4.2,patien
+04:30 p.m.,ROS
+Ativan,ROS
+Nitroglycerin,ROS
+the night,CT
+BG,PMH
+124,100%
+BP 118/88,100%
+BMS,MI
+CP/SOB/HA/N/V/D/Abdominal,ROS
+Type II DM,PMH
+2835-10,PMH
+4 days,PMH
+10 days,PMH
+approximately 200 cc approximately two,GI
+Pt alsmost,ROS
+55.4,Hgb
+Friday,hemeoccult
+Friday,EGD
+Sunday,hemeoccult
+Sunday,EGD
+Sunday,GI
+past several days,hemeoccult
+past several days,EGD
+Mellitus,PMH
+over 40 years,PMH
+last night,9:30 pm
+last night,greater than 48 hours
+last night,GI
+N/V.,ROS
+73 year old,EF
+94%,100%
+4Lnc,100%
+5666,daily
+69 year-old,CBC
+102,CBC
+two to three days,CBC
+27809,MI
+42,MI
+VT,MI
+One month,ROS
+7352,the last few months
+7352,Aspirin
+recent months,the last few months
+recent months,Aspirin
+some night,night
+2942,three
+less than 5 minutes,ROS
+5:44pm,ROS
+78,GI
+the Medical Intensive Care Unit,GI
+Medicine Service,GI
+approximately 3 a.m.,night
+approximately 55%,prolpase
+LUQ,the weekend
+MS,CT
+35-year-old,2
+BP 170/115,ICU
+9:30PM,9:30 pm
+9:30PM,greater than 48 hours
+third,Cr
+Gastric varices Old,Cr
+S1,Cr
+535,GBM
+75,Hgb
+18 months,Hgb
+PAF,Hgb
+PAF,MI
+2640,100%
+70's%,100%
+60's%,100%
+VQ,MI
+LBBV,PMH
+Two,two
+hypoenhancing subcentimeter,two
+55-year-old,MI
+2889,MI
+1498,MI
+99.5,Pulmonary
+HR-,Pulmonary
+112,Pulmonary
+16,Pulmonary
+16,GI
+16,gastric varacies
+SaO2- 99%,Pulmonary
+several days,RUE
+2L NC,ROS
+Pulm HTN Asthma Aortic,ROS
+Thrive Frequent Falls BPH Urine/Stool,BMI
+29336,MI
+one-third,EGD
+duodenitis,EGD
+79,PMH
+66 year old,MI
+626,1
+ten years,2
+Glynase,2
+2 months ago,PMH
+UO,DOE
+age 9,1
+57,BMI
+ankle edema,EKG
+1 wk,ROS
+28- year-old,rubella
+G1,rubella
+Sjogrens,GI
+115,decreaesd
+angina,decreaesd
+40-50%,decreaesd
+30%,decreaesd
+60-70%,decreaesd
+LAD,decreaesd
+OM,decreaesd
+5 mg IV,VTach
+po diltiazem,VTach
+the Neonatal Intensive Care Unit,37 weeks
+the Neonatal Intensive Care Unit,6
+Levo,UTI
+Benadryl,ROS
+50 mg x 1,ROS
+40 mg x 1,ROS
+evening,MI
+911,MI
+Hct 41,WBC
+afternoon,yesterday
+55%,EF
+53.3,CBC
+Gran,CBC
+67,CBC
+5 and 10 minutes,10 minutes
+5 and 10 minutes,1
+This a.m.,This morning
+This a.m.,this morning
+92% to 94%,This morning
+92% to 94%,this morning
+the 40s,This morning
+the 40s,this morning
+NGT,GI
+NG,GI
+35 week,Infant
+24 year old,Infant
+28 weeks,two
+36 weeks,two
+2PIVs,GI
+E. coli,UTI
+28-1/7 weeks,CBC
+49 year old,only one
+49 year old,ROS
+56,Pulmonary
+2787,TIA
+5 at 1 minute and,Apgars
+7 at 5 minutes,Apgars
+CT abd,CT
+L AV,AKI
+8656,URI
+GIB,hematochezia
+24765,foley
+84,foley
+CAD,foley
+PVD,foley
+47,MI
+RUQ U/S c/,Murphy
+LFT,Murphy
+Last night,MI
